@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>825101702498-gh059j20m49989gr9290rpdpqn2g7brv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.825101702498-gh059j20m49989gr9290rpdpqn2g7brv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrgevWyw5H6qP1xzc1gEj8vXwzg7bjdVM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>825101702498</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>me.lozhkovoi.interviewassistant.jobInterviewAssistant</string>
+	<key>PROJECT_ID</key>
+	<string>job-interview-assistant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>job-interview-assistant.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:825101702498:ios:9bdc51c8f2dbf3b9b0c83b</string>
+</dict>
+</plist>
