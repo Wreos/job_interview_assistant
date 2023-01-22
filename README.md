@@ -1,16 +1,43 @@
-# job_interview_assistant
+# Job Interview Assistant
 
-Job interview assistant app. App helps to track your current interview proccesses
+A Flutter application that helps users keep track of their job interviews. It allows them to add, view, and delete interviews from a Firebase Firestore database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository.
 
-A few resources to get you started if this is your first Flutter project:
+```sh
+git clone https://github.com/username/job-interview-assistant.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Install the dependencies.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+flutter packages get
+```
+
+3. Create a Firebase project and add the necessary configuration information to `lib/main.dart`.
+
+4. Run the app.
+
+```sh
+flutter run
+```
+
+## Features
+- Add new interviews
+- View existing interviews
+- Delete interviews
+
+## Screenshots
+
+
+## Built With
+- [Flutter](https://flutter.dev/) - The mobile app framework used
+- [Firebase Firestore](https://firebase.google.com/docs/firestore) - The database used
+
+## Authors
+- [Aleksandr Lozhkovoi](https://github.com/Wreos)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
