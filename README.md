@@ -2,6 +2,10 @@
 
 A Flutter application that helps users keep track of their job interviews. It allows them to add, view, and delete interviews from a Firebase Firestore database.
 
+![image](https://user-images.githubusercontent.com/15965366/214059266-a154156f-32a5-46d9-bafb-852d5e8ea8dc.png)
+
+
+
 ## Getting Started
 
 1. Clone the repository.
@@ -28,9 +32,6 @@ flutter run
 - Add new interviews
 - View existing interviews
 - Delete interviews
-
-## Screenshots
-
 
 ## Built With
 - [Flutter](https://flutter.dev/) - The mobile app framework used
